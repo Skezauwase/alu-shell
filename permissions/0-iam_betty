@@ -1,2 +1,3 @@
 #!/bin/bash
+if [ -s README.md ]; then echo "File exists and is not empty"; fi
 su betty
