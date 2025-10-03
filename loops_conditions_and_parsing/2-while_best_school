@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
 #Using while to create a script that dispaly "Best School" 10 time
 
 counter=1
